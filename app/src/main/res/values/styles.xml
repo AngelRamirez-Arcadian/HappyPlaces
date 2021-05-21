@@ -2,13 +2,13 @@
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
 
-        <item name="colorPrimary">#FA0637</item>
-        <item name="colorPrimaryDark">#FB0317</item>
-        <item name="colorAccent">#FD0404</item>
+        <item name="colorPrimary">#032E85</item>
+        <item name="colorPrimaryDark">#032E85</item>
+        <item name="colorAccent">#032E85</item>
     </style>
 
     <style name="CustomNoActionBarTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:statusBarColor">#FD0216</item>
+        <item name="android:statusBarColor">#032E85</item>
     </style>
 
     <style name="CustomToolbarStyle">
